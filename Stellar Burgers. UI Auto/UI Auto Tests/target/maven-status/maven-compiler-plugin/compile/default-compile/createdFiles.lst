@@ -1,0 +1,6 @@
+data\UserData.class
+data\Endpoints.class
+model\UserModel.class
+steps\UserSteps.class
+model\LoginModel.class
+pages\MainPage.class
