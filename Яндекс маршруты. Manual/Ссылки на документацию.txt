@@ -1,0 +1,12 @@
+﻿Яндекс маршруты. Проверка части функциональности, валидации и логики через тест кейсы:
+
+
+1. Ссылка на гугл-таблицу с тестовой документацией: 
+* https://docs.google.com/spreadsheets/d/1vWlpMI8HcKB3SA3nGsDF23X74W4R1yAAIMiLcg5F_xU/edit?gid=454479584#gid=454479584
+
+
+Яндекс маршруты. Проверка функциональности каршэринга через чек-лист:
+
+
+1. Ссылка на гугл-таблицу с тестовой документацией: 
+* https://docs.google.com/spreadsheets/d/1AP_qDvs8dzeCcVYyxhUvSY3bEWmdVdOvqDRPnyDfzak/edit?gid=977751969#gid=977751969
