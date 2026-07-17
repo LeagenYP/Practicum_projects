@@ -1,0 +1,9 @@
+﻿Тестирование API
+
+
+1. Ссылка на гугл-таблицу с чек-листами:
+https://docs.google.com/spreadsheets/d/1i-oC4gzX_kWMsZjystlZrJoVMnvA1_1d9Jqs0BtSMww/edit?gid=899462569#gid=899462569
+
+
+2. Ссылки на баг-репорты, заведённые в трекере:
+https://docs.google.com/spreadsheets/d/1i-oC4gzX_kWMsZjystlZrJoVMnvA1_1d9Jqs0BtSMww/edit?gid=1414777796#gid=1414777796
